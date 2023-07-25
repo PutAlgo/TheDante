@@ -1,0 +1,25 @@
+Definition: Premature revenue recognition is the practice of recording revenue before the criteria for revenue recognition have been met. This can result in overstated financial performance and an inaccurate representation of a company's financial health.
+
+Types: The most common types of premature revenue recognition include revenue recognized before shipment, before service is performed, before payment is guaranteed, and before the completion of terms of sale.
+
+Before Shipment: This refers to when companies record revenue for a product that has not yet been shipped or delivered to the customer. This is against accounting standards as it violates the delivery principle of revenue recognition.
+
+Before Service Performed: This occurs when a company records revenue for a service that has not yet been performed. According to revenue recognition principles, revenue should only be recognized once the service has been fully performed.
+
+Before Payment Guaranteed: In this type, a company might record revenue before they have reasonable assurance that they will receive payment. For example, if a company records a large sale that is dependent on the customer securing financing, the revenue should not be recognized until that financing is secure.
+
+Before Completion of Terms of Sale: If the terms of the sale include specific obligations that the company must meet, revenue should not be recognized until those obligations have been fulfilled.
+
+Balances to Compare: When looking to identify premature revenue recognition, it can be helpful to compare a company's revenue growth to the growth of its industry peers. Similarly, a comparison of accounts receivable to sales can shed light on potential issues, as a disproportionately high growth in receivables compared to sales may suggest premature or aggressive revenue recognition.
+
+Revenue Growth Vs Industry Peers: If a company's revenue growth significantly outpaces that of its industry peers without a clear and logical explanation, it may be a red flag. This anomaly could suggest that the company is recognizing revenue prematurely or aggressively.
+
+Accounts Receivable to Sales: If the accounts receivable growth rate is disproportionately higher than the sales growth rate, it might indicate that the company is recognizing revenue before it has been assured of the cash collection.
+
+Deferred Revenue: If a company has significantly low or decreasing deferred revenue compared to its peers or to its previous financial periods without a valid business explanation, it could signal premature revenue recognition.
+
+Days Sales Outstanding (DSO): DSO measures the average number of days it takes for a company to collect payment after a sale has been made. An increasing DSO may suggest that the company is having a harder time collecting its accounts receivable, which could be a result of recognizing revenue prematurely.
+
+Cash Flow from Operations: A continuous and significant discrepancy between net income (where revenue is a major component) and cash flow from operations might be an indication of aggressive revenue recognition.
+
+Gross Margin Comparison: If a company's gross margins are significantly higher than industry norms without a valid explanation, it might be due to premature revenue recognition.: If a company's gross margins are significantly higher than industry norms without a valid explanation, it might be due to premature revenue recognition. This is because recognizing revenue prematurely can inflate sales and gross profits, thereby increasing gross margin.

@@ -1,0 +1,14 @@
+
+Can you elaborate on the revenue recognition policy over a certain period?Provide mathematical backed instances. - Weight: 5
+Have there been any significant alterations in the revenue recognition policies over a specific time frame? Provide mathematical backed instances. - Weight: 10
+Have the revenue recognition policies been modified within a certain period? Provide mathematical backed instances. - Weight: 10
+Is there a policy to recognize revenue prior to delivering goods or services over a specific period? Provide mathematical backed instances. - Weight: 20
+Has there been a noticeable shift in the timing of Catalent's revenue recognition over a defined period? Provide mathematical backed instancess - Weight: 15
+Is revenue recorded before all obligations under the contract are fulfilled within a specific time frame? Provide mathematical backed instances. - Weight: 20
+Are there instances where revenue is recorded far exceeding work completed on a contract over a certain period? Provide mathematical backed instances.- Weight: 15
+Is revenue recorded prior to the buyer’s final acceptance of the product within a specific time frame? Provide mathematical backed instances. - Weight: 20
+Has there been an uptick in the long-term contract assets over a certain period?Provide mathematical backed instances. - Weight: 10
+Has there been a downturn in short-term contract assets over a defined time frame?Provide mathematical backed instances.  - Weight: 10
+Has there been an upward trend in total contract assets over a specific period? Provide mathematical backed instances. - Weight: 10
+Has there been a downward trend in deferred revenues over a certain period? Provide mathematical backed instances. - Weight: 10
+Has there been noticeable increases in account receivables over a specific period?Provide mathematical backed instances. - Weight: 15

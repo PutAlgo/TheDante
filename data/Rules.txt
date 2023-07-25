@@ -1,0 +1,27 @@
+RULES TO FOLLOW:
+
+
+Context for what to look for when trying to identify fraudulent behavior:
+
+Item 1: Business: This is a high-level summary of the company's operations. It can help you understand how the company recognizes revenue and what risks it faces.
+Item 6: Selected Financial Data: This section provides a five-year summary of selected financial data that can help you spot trends or abrupt changes.
+Item 7: Management's Discussion and Analysis of Financial Condition and Results of Operations (MD&A): The MD&A is where the company explains its financial results. You might find discussions about revenue recognition policies and any changes to them.
+Item 8: Financial Statements and Supplementary Data: This is the core of the 10-K. Look at the footnotes to the financial statements, which often have detailed information about revenue recognition.
+Item 9: Changes in and Disagreements with Accountants on Accounting and Financial Disclosure: This could indicate disagreements over revenue recognition or other accounting issues.
+Here are some more specific tags or red flags to look for in these sections:
+
+Quantitative Analysis:
+Revenue Recognition Policy: The model should extract the revenue recognition policy detailed in the footnotes of the financial statements. Changes in these policies over time could indicate potential red flags.
+Accounts Receivable: Identify the growth rate of accounts receivable versus the growth rate of sales. If accounts receivable are growing significantly faster than sales, this could indicate premature revenue recognition.
+Days Sales Outstanding (DSO): Calculate the DSO for each period and identify significant increases. This might indicate potential issues with revenue recognition.
+Deferred Revenue: Look for sharp increases or decreases in deferred revenue which could indicate manipulation.
+Gross Margin Trends: Calculate the gross margin for each period and identify substantial increases without a reasonable explanation.
+Revenue vs. Cash Flows from Operations: If there's a significant disparity between the growth of revenue and cash flows from operations, it can be a warning sign.
+
+Qualitative Analysis:
+Changes in Revenue Recognition Policies: Extract information about changes in revenue recognition policies and the reasons given for these changes.
+Returns and Allowances: Extract information related to returns and allowances. Increasing trends in returns and allowances could indicate issues with premature revenue recognition.
+Audit Opinion: Extract the auditor's opinion and identify any qualifications or notes about the revenue recognition.
+Management's Discussion and Analysis (MD&A): Analyze the language and tone used in the MD&A. Changes in tone or language could indicate potential issues. Look for certain phrases like "aggressive revenue recognition", "change in revenue estimation", or "shift in revenue policy".
+Legal Proceedings and Contingencies: Extract details of any legal proceedings and contingencies related to revenue recognition, which could be indicative of potential issues.
+

@@ -1,0 +1,50 @@
+Liquidity Ratios:
+    Current Ratio: This ratio is calculated as Current Assets divided by Current Liabilities.
+    Quick Ratio: This ratio is calculated as the difference between Current Assets and Inventory, divided by Current Liabilities.
+    Cash Ratio: This ratio is calculated as Cash and Cash Equivalents divided by Current Liabilities.
+
+Solvency Ratios:
+    Debt-to-Equity Ratio: This ratio is calculated as Total Debt divided by Shareholder's Equity.
+    Debt Ratio: This ratio is calculated as Total Debt divided by Total Assets.
+    Equity Ratio: This ratio is calculated as Shareholder's Equity divided by Total Assets.
+
+Profitability Ratios:
+    Gross Profit Margin: This ratio is calculated as Gross Profit divided by Total Revenue.
+    Operating Profit Margin: This ratio is calculated as Operating Income divided by Total Revenue.
+    Net Profit Margin: This ratio is calculated as Net Income divided by Total Revenue.
+    Return on Assets (ROA): This ratio is calculated as Net Income divided by Total Assets.
+    Return on Equity (ROE): This ratio is calculated as Net Income divided by Shareholder's Equity.
+
+Efficiency Ratios:
+    Asset Turnover Ratio: This ratio is calculated as Total Revenue divided by Average Total Assets.
+    Inventory Turnover Ratio: This ratio is calculated as Cost of Goods Sold divided by Average Inventory.
+    Accounts Receivable Turnover Ratio: This ratio is calculated as Net Credit Sales divided by Average Accounts Receivable.
+    Days Sales Outstanding (DSO): This ratio is calculated as the result of dividing Average Accounts Receivable by Total Credit Sales, multiplied by the Number of Days in the Period.
+
+Market Ratios:
+    Price-to-Earnings Ratio (P/E ratio): This ratio is calculated as the Market Price Per Share divided by Earnings Per Share (EPS).
+    Price-to-Sales Ratio (P/S ratio): This ratio is calculated as Market Capitalization divided by Total Revenue.
+    Price-to-Book Ratio (P/B ratio): This ratio is calculated as the Market Price Per Share divided by Book Value Per Share.
+    Dividend Yield: This ratio is calculated as Annual Dividends Per Share divided by Market Price Per Share.
+
+Liquidity Ratios:
+    Current Ratio (Apple Inc. 2020: 1.36): This ratio is generally within industry standards. A current ratio above 1.0 is considered healthy as it indicates that a company can cover its short-term obligations.
+    Quick Ratio (Amazon Inc. 2019: 0.86): This ratio is slightly below the ideal quick ratio of 1.0, indicating potential issues with meeting short-term liabilities. However, it's common for companies in the retail sector to have lower quick ratios.
+    Cash Ratio (Microsoft Corp. 2020: 1.91): This ratio is well above the industry average, indicating that Microsoft holds a significant amount of cash and equivalents, which can be positive for short-term solvency.
+Solvency Ratios:
+    Debt-to-Equity Ratio (Netflix Inc. 2019: 2.14): This ratio is higher than the average for the tech industry, suggesting that Netflix has used more debt to finance its operations.
+    Debt Ratio (IBM Corp. 2019: 0.42): This ratio is within industry standards, showing that less than half of IBM's assets are financed by debt.
+    Equity Ratio (Facebook Inc. 2020: 0.64): This is within industry standards for tech companies, indicating that a significant portion of Facebook's assets are financed by equity.
+Profitability Ratios:
+    Gross Profit Margin (Google Inc. 2019: 0.55): This is within industry standards for tech companies, which often have high gross margins.
+    Operating Profit Margin (Twitter Inc. 2019: 0.14): This is somewhat low for the tech industry, suggesting lower operational efficiency or higher costs.
+    Net Profit Margin (Visa Inc. 2019: 0.52): This is significantly above average for most industries, including the financial sector, reflecting Visa's high profitability.
+Efficiency Ratios:
+    Asset Turnover Ratio (McDonald's Corp. 2019: 0.45): This is within industry standards for the fast-food industry, reflecting moderate efficiency in using assets to generate revenue.
+    Inventory Turnover Ratio (Walmart Inc. 2020: 8.75): This is relatively high and within standards for the retail industry, suggesting efficient management of inventory.
+    Accounts Receivable Turnover Ratio (Nike Inc. 2019: 11.14): This is within standards for the manufacturing industry, indicating efficient collection of credit sales.
+Market Ratios:
+    Price-to-Earnings Ratio (P/E ratio) (Adobe Inc. 2020: 76.67): This ratio is high compared to the market average, suggesting that Adobe's shares are relatively expensive.
+    Price-to-Sales Ratio (P/S ratio) (Tesla Inc. 2020: 19.35): This ratio is high, even for the tech/auto industry, potentially indicating overvaluation.
+    Price-to-Book Ratio (P/B ratio) (Coca-Cola Inc. 2019: 12.57): This ratio is high for the beverage industry, indicating that market prices are high relative to the company's book value.
+    Dividend Yield (Johnson & Johnson 2019: 2.9%): This yield is relatively high compared to the average for blue-chip stocks, suggesting a strong return for investors through dividends.

@@ -1,0 +1,163 @@
+
+FRAUDULENT CASES by example and how to identify through the financial statements:
+
+Under Armour, Inc. (2020): The company pulled sales forward from future quarters. This could potentially be flagged by an unexpected increase in accounts receivable or a decrease in the accounts receivable turnover ratio, indicating that the company is taking longer to collect cash from sales.
+Comscore Inc. (2019): Comscore recognized revenue through non-monetary transactions, which would be flagged by a lack of corresponding increase in cash flow from operations as revenue increased.
+MiMedx Group, Inc. (2020): The company recognized revenue before sales were made to end users. This would likely be signaled by a sudden increase in accounts receivable or a decrease in the accounts receivable turnover ratio.
+Luckin Coffee (2020): The company fabricated transactions. This fraud would be extremely difficult to detect using financial statement analysis, as the fraudulent transactions were created to align with real financial ratios.
+General Electric (2020): The company made misleading statements about its power and insurance businesses. These misstatements might have been flagged by an analysis of segment revenues and profits compared to prior periods or to industry peers.
+Fiat Chrysler (2020): To artificially inflate sales figures, the company maintained a 'cookie jar' of unreported vehicle sales. Unusual sales growth compared to industry peers or inconsistent growth between revenue and cash from operations might signal such practices.
+BlueLinx Holdings Inc. (2018): BlueLinx failed to account properly for a large inventory purchase transaction, overestimating net income. A sudden change in inventory turnover ratio (Cost of Goods Sold/Inventory) or an unexpected increase in gross margin (Sales - COGS/Sales) might raise suspicions.
+Scientific Games Corporation (2020): The company understated contract costs to inflate profits. A sudden increase in profit margin compared to previous periods or industry averages could be a red flag.
+Bausch Health (2020): Bausch recognized revenue before the drugs were sold to end customers, artificially boosting sales. This might be indicated by a rapid increase in accounts receivable, a drop in the accounts receivable turnover ratio, or a lack of corresponding cash flow increase.
+Revlon, Inc. (2020): Revlon ring-fenced assets during a 'going private' transaction. This could be signaled by sudden changes in asset values, unexplained increases in liabilities, or sudden increases in the current or quick ratio.
+
+Under Armour, Inc. (2020)
+Company: "Under Armour, Inc."
+Year: 2020
+Irregularity: "Unexpected increase in accounts receivable or decrease in accounts receivable turnover ratio"
+Red_Flag: "Sales being pulled from future quarters"
+
+Comscore Inc. (2019)
+Company: "Comscore Inc."
+Year: 2019
+Irregularity: "Lack of corresponding increase in cash flow from operations as revenue increased"
+Red_Flag: "Revenue recognized through non-monetary transactions"
+
+MiMedx Group, Inc. (2020)
+Company: "MiMedx Group, Inc."
+Year: 2020
+Irregularity: "Sudden increase in accounts receivable or decrease in accounts receivable turnover ratio"
+Red_Flag: "Revenue recognized before sales were made to end users"
+
+Luckin Coffee (2020)
+Company: "Luckin Coffee"
+Year: 2020
+Irregularity: "Fraudulent transactions created to align with real financial ratios"
+Red_Flag: "Fabrication of transactions"
+
+General Electric (2020)
+Company: "General Electric"
+Year: 2020
+Irregularity: "Discrepancy in analysis of segment revenues and profits compared to prior periods or to industry peers"
+Red_Flag: "Misleading statements about business segments"
+
+Fiat Chrysler (2020)
+Company: "Fiat Chrysler"
+Year: 2020
+Irregularity: "Unusual sales growth compared to industry peers or inconsistent growth between revenue and cash from operations"
+Red_Flag: "Maintaining a 'cookie jar' of unreported vehicle sales"
+
+BlueLinx Holdings Inc. (2018)
+Company: "BlueLinx Holdings Inc."
+Year: 2018
+Irregularity: "Sudden change in inventory turnover ratio or unexpected increase in gross margin"
+Red_Flag: "Failure to account properly for a large inventory purchase transaction"
+
+Scientific Games Corporation (2020)
+Company: "Scientific Games Corporation"
+Year: 2020
+Irregularity: "Sudden increase in profit margin compared to previous periods or industry averages"
+Red_Flag: "Understated contract costs to inflate profits"
+
+Bausch Health (2020)
+Company: "Bausch Health"
+Year: 2020
+Irregularity: "Rapid increase in accounts receivable, a drop in the accounts receivable turnover ratio, or lack of corresponding cash flow increase"
+Red_Flag: "Revenue recognized before drugs were sold to end customers"
+
+Revlon, Inc. (2020)
+Company: "Revlon, Inc."
+Year: 2020
+Irregularity: "Sudden changes in asset values, unexplained increases in liabilities, or sudden increases in the current or quick ratio"
+Red_Flag: "Ring-fencing assets during a 'going private' transaction"
+
+HP Inc. (2019)
+Context: Companies may sometimes push sales towards the end of a quarter to meet targets. However, if this pattern is consistent and significant, it may indicate an aggressive revenue recognition policy or possible fraudulent activity.
+
+Walmart (2019)
+Context: Sudden or unexplained increases in foreign sales could suggest improper sales reporting or, in extreme cases, bribing foreign officials to increase business (violating the FCPA).
+
+Papa John's (2020)
+Context: Inappropriate or misleading statements by company executives can lead to market misperception about the company's financial health. This can be a more indirect form of financial misrepresentation.
+
+Cardinal Health, Inc. (2020)
+Context: Sudden decreases in profit margins without any accompanying operational or market news can suggest improper cost allocation or, in some cases, undisclosed side agreements with customers that affect profitability.
+
+World Acceptance Corp. (2020)
+Context: Unusual expense growth, particularly in foreign markets, could indicate hidden costs or improper transactions, potentially violating the FCPA.
+
+Mylan N.V. (2020)
+Context: Rapid, unexplained increases in a specific business segment's profitability may signal improper cost allocation, aggressive revenue recognition, or overcharging customers.
+
+Herbalife Nutrition Ltd. (2020)
+Context: A discrepancy between sales growth and related operational cash flows could indicate aggressive revenue recognition practices, such as booking future or uncertain revenues.
+
+Alexion Pharmaceuticals (2020)
+Context: Unusually high foreign market sales or profits without corresponding market news or performance in similar markets could suggest false sales, aggressive revenue recognition, or FCPA violations.
+
+Diageo plc (2020)
+Context: If revenue or profits are more volatile than the company's overall business environment, it may indicate undisclosed risks or improper financial reporting.
+
+SCANA Corporation and South Carolina Electric & Gas (2020)
+Context: If a company's asset growth is unexpectedly high or its expenses unexpectedly low without a corresponding operational explanation, it might suggest the company is capitalizing costs that should be expensed, potentially indicating fraudulent activity.
+
+HP Inc. (2019)
+Company: "HP Inc."
+Year: 2019
+Irregularity: "High or volatile sales growth at quarter ends"
+Red_Flag: "Sudden sales spikes at quarter ends"
+
+Walmart (2019)
+Company: "Walmart"
+Year: 2019
+Irregularity: "Unusual growth in foreign markets and large unexplained expenses"
+Red_Flag: "Unexpected increases in foreign market sales or inexplicable expense growth"
+
+Papa John's (2020)
+Company: "Papa John's"
+Year: 2020
+Irregularity: "Inappropriate and misleading comments by management"
+Red_Flag: "Reputational risk indicators"
+
+Cardinal Health, Inc. (2020)
+Company: "Cardinal Health, Inc."
+Year: 2020
+Irregularity: "Sudden drop in gross or net profit margins"
+Red_Flag: "Unexpected decrease in profit margins"
+
+World Acceptance Corp. (2020)
+Company: "World Acceptance Corp."
+Year: 2020
+Irregularity: "Unusual expenses, particularly in foreign markets"
+Red_Flag: "Unexpected growth in foreign market expenses"
+
+Mylan N.V. (2020)
+Company: "Mylan N.V."
+Year: 2020
+Irregularity: "Unexplained increases in sales or profit margins in a particular business segment"
+Red_Flag: "Sudden, unaccounted growth in business segment profit margins"
+
+Herbalife Nutrition Ltd. (2020)
+Company: "Herbalife Nutrition Ltd."
+Year: 2020
+Irregularity: "Discrepancy between reported sales growth and growth of related operational cash flows"
+Red_Flag: "Mismatch between sales growth and operational cash flow growth"
+
+Alexion Pharmaceuticals (2020)
+Company: "Alexion Pharmaceuticals"
+Year: 2020
+Irregularity: "Unusually high sales or profits in foreign markets"
+Red_Flag: "Unexpected increase in foreign market sales or profits"
+
+Diageo plc (2020)
+Company: "Diageo plc"
+Year: 2020
+Irregularity: "Volatile revenue or profit figures due to undisclosed risks"
+Red_Flag: "Unstable revenue or profit figures"
+
+SCANA Corporation and South Carolina Electric & Gas (2020)
+Company: "SCANA Corporation and South Carolina Electric & Gas"
+Year: 2020
+Irregularity: "Unusually high asset growth or low expense growth"
+Red_Flag: "Unexpected asset growth or lack of expense growth"

@@ -4,7 +4,7 @@ import PyPDF2
 from langchain.document_loaders import DirectoryLoader, TextLoader
 
 # Specify the directory for the text files
-directory_path = "data"
+directory_path = "data/txt-files"
 
 # Expand the user's home directory
 directory_path = os.path.expanduser(directory_path)
@@ -12,10 +12,10 @@ directory_path = os.path.expanduser(directory_path)
 # Make sure the directory exists
 os.makedirs(directory_path, exist_ok=True)
 
-companyname = "schw"
+companyname = "intc"
 
 # Open the PDF file
-with open(f"../PdfCode/{companyname}-10k.pdf", "rb") as file:
+with open(f"./Pdf-Files/files/{companyname}-10k.pdf", "rb") as file:
     reader = PyPDF2.PdfReader(file)
     pages_text = []
 
